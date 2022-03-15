@@ -4,7 +4,7 @@
 
 ### project setup
 Initialise project using [Spring Initializer](https://start.spring.io/)
-![](./Screenshots/spring_strater.png)
+![](https://github.com/ashisj/spring-blog/blob/main/Screenshots/spring_starter.png)
 
 Added below dependecies for field validateion
 ```
