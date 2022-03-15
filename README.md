@@ -33,15 +33,26 @@ create below package and respective file
    2. Post.java
 2. dto
    1. RegisterRequest.java
+   2. LoginRequest.java
+   3. PostDto.java
 3. repository
    1. PostRepository.java
    2. UserRepository.java
 4. service
    1. AuthService.java
+   2. PostService.java
 5. controller
    1. AuthController.java
+   2. PostController.java
 6. config
    1. SecurityConfig.java
+   2. WebConfig.java
+7. security
+   1. JwtAuthenticationFilter.java
+   2. JwtProvider.java
+8. exception
+   1. PageNotFoundException.java
+   2. SpringBlogException.java
 
 ### signup functionality
 ```
